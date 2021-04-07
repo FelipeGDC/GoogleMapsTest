@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapsTest</string>
+
+    <!--Lottie animations -->
+    <string name="map_loading">map-loading.json</string>
+
+</resources>

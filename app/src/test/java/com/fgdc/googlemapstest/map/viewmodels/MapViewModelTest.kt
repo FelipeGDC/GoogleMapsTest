@@ -76,6 +76,4 @@ class MapViewModelTest {
 
             verify(mapLocations).onChanged(expectedLocations.data.map { it.toMapView() })
         }
-
-
 }

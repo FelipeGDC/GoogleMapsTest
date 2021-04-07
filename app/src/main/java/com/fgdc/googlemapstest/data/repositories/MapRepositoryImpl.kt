@@ -1,6 +1,5 @@
 package com.fgdc.googlemapstest.data.repositories
 
-import android.util.Log
 import com.fgdc.googlemapstest.data.datasource.remote.services.MapsApi
 import com.fgdc.googlemapstest.domain.models.MapItemDomain
 import com.fgdc.googlemapstest.utils.exception.ErrorHandler

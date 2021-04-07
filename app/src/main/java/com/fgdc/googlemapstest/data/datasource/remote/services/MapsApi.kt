@@ -1,7 +1,6 @@
 package com.fgdc.googlemapstest.data.datasource.remote.services
 
 import com.fgdc.googlemapstest.data.datasource.remote.responses.MapResponseItem
-import com.google.android.gms.maps.model.LatLng
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

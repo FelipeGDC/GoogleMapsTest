@@ -36,7 +36,7 @@ The app currently consists of 1 screen:
 
 ## Screenshots
 
-![](https://github.com/FelipeGDC/GoogleMapsTest/blob/master/images/image-1.png)
-![](https://github.com/FelipeGDC/GoogleMapsTest/blob/master/images/image-2.png)
+![Image](https://github.com/FelipeGDC/GoogleMapsTest/blob/main/images/image-1.png)
+![Image](https://github.com/FelipeGDC/GoogleMapsTest/blob/main/images/image-2.png)
 
 
